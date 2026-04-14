@@ -169,6 +169,7 @@ tips:
 exam requires 70% score, it is proctored (method - online via Pearson VuE)
 passed from first attempt 800 points, min bein 700
 for retake focus mostly on the renaming of the servcies
+remember to request voucher 60 days before (sponsored, by company, if possible)
 
 one of the trickiest but also favourite question for me was - what type of format are .csv files? 
 In the learning materials (Udemy, AWS) they are marked as semistructured; at exam you had just these options - structured and unstructured. I picked structured
