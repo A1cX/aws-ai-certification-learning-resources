@@ -166,9 +166,12 @@ This document serves as a reusable reference for:
 - documenting the learning journey
 
 tips:
-exam requires 70% score, it is proctored (method - online via Pearson VuE)
-passed from first attempt 800 points, min bein 700
-for retake focus mostly on the renaming of the servcies
+exam requires 70% score, 60 questions 90 min, it is proctored (method - online via Pearson VuE)
+passed from first attempt 800 points, 40 min and reviewed all questions once
+
+takes few hours - 2 days to receive the actual score, you can see PASS at the end
+
+for retake focus mostly on the renaming of the servcies and retake the ILT AWS virtual classrooms
 remember to request voucher 60 days before (sponsored, by company, if possible)
 
 one of the trickiest but also favourite question for me was - what type of format are .csv files? 
