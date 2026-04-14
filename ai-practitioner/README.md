@@ -25,7 +25,10 @@ Purpose:
 - Helpful explanations and examples of AWS AI services
 
 Notes:
-Focus on understanding the positioning and use cases of different AWS AI services.
+Udemy Course is constantly updated so probably no need to buy newest version in 2029
+Focus on understanding the positioning and use cases of different AWS AI services
+It contains also example questions
+Always verify with terminology with the AWS Skills Builder - for name chenages
 
 ---
 
@@ -67,6 +70,9 @@ Purpose:
 # Hands-On Practice Notes
 
 Most official preparation materials were **conceptual rather than hands-on**.
+Udemy instructor does guide how to use AWS services at minimal charge for practice but for this exam it was not necessary.
+Ornly his demos of the platform were sufficent.
+PartyRock is for free
 
 Observations:
 
@@ -80,12 +86,14 @@ Examples:
 
 Usefulness:
 
-These micro challenges help with:
+The new AWS micro challenges help with:
 - reinforcing terminology
 - validating understanding of concepts
 - quick knowledge checks
 
 However, they are **not full AWS console labs**.
+
+AWS labs require a payed subscription
 
 Optional improvement for future learning:
 
@@ -155,4 +163,14 @@ This document serves as a reusable reference for:
 
 - certification review
 - exam retake preparation
-- documenting the learning journey≈
+- documenting the learning journey
+
+tips:
+exam requires 70% score, it is proctored (method - online via Pearson VuE)
+passed from first attempt 800 points, min bein 700
+for retake focus mostly on the renaming of the servcies
+
+one of the trickiest but also favourite question for me was - what type of format are .csv files? 
+In the learning materials (Udemy, AWS) they are marked as semistructured; at exam you had just these options - structured and unstructured. I picked structured
+
+
